@@ -1,6 +1,6 @@
 # Letter Frequency Data
 
-This repo has the results of my enhanced letter frequencies, my process and explanation is [here](http://127.0.0.1:5000/research/Specific%20Letter%20Frequencies)
+This repo has the results of my enhanced letter frequencies, my process and explanation is [here](https://hagen.rip/research/Specific%20Letter%20Frequencies)
 
 The dictionary_letter_frequencies folder has the letter frequencies for a dictionary of words, while letter_frequencies has the frequencies for an adjusted Cornell Movie Corpus (outlined in my website post)
 
